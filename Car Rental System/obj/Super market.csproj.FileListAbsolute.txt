@@ -1,0 +1,34 @@
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super market.exe
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super market.pdb
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\bin\Debug\Super market.exe
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\bin\Debug\Super market.pdb
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.Insertname.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.Pwd.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.Select.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.Login.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.Insert.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.SelectJD.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super market.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.Update.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super market.exe
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super market.pdb
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\bin\Debug\Super market.exe
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\bin\Debug\Super market.pdb
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.Insertname.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.Pwd.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.Select.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.Login.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.Insert.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.SelectJD.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.Update.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super market.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\Super market\obj\Debug\Super_market.Sell.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\bin\Debug\IrisSkin2.dll
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.Deletaname.resources
+C:\Documents and Settings\Administrator\桌面\Super market\Super market\obj\Debug\Super_market.Sell.resources

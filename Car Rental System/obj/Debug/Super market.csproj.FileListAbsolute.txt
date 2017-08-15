@@ -1,0 +1,77 @@
+D:\Myitem\Super market\Super market\bin\Debug\Super market.exe
+D:\Myitem\Super market\Super market\bin\Debug\Super market.pdb
+D:\Myitem\Super market\Super market\bin\Debug\IrisSkin2.dll
+D:\Myitem\Super market\Super market\obj\Debug\ResolveAssemblyReference.cache
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Insertname.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Pwd.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Select.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Login.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.MainForm.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Properties.Resources.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Insert.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.SelectJD.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Deletaname.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Sell.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Text.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super_market.Update.resources
+D:\Myitem\Super market\Super market\obj\Debug\Super market.csproj.GenerateResource.Cache
+D:\Myitem\Super market\Super market\obj\Debug\Super market.exe
+D:\Myitem\Super market\Super market\obj\Debug\Super market.pdb
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super market.exe
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super market.pdb
+C:\Users\Administrator\Desktop\Super market\Super market\bin\Debug\Super market.exe
+C:\Users\Administrator\Desktop\Super market\Super market\bin\Debug\Super market.pdb
+C:\Users\Administrator\Desktop\Super market\Super market\bin\Debug\IrisSkin2.dll
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Insertname.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Pwd.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Select.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Login.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.MainForm.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Insert.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.SelectJD.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Deletaname.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Sell.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Update.resources
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super market.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Super market\Super market\obj\Debug\Super_market.Entry.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super market.exe
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super market.pdb
+C:\Users\Ryan\Desktop\Super market\Super market\bin\Debug\Super market.exe
+C:\Users\Ryan\Desktop\Super market\Super market\bin\Debug\Super market.pdb
+C:\Users\Ryan\Desktop\Super market\Super market\bin\Debug\IrisSkin2.dll
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super market.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Entry.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Insertname.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Pwd.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Select.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Login.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.MainForm.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Properties.Resources.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Insert.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.SelectJD.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Deletaname.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Sell.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super_market.Update.resources
+C:\Users\Ryan\Desktop\Super market\Super market\obj\Debug\Super market.csproj.GenerateResource.Cache
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super market.exe
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super market.pdb
+C:\Users\D13\Desktop\Super market\Super market\bin\Debug\Super market.exe
+C:\Users\D13\Desktop\Super market\Super market\bin\Debug\Super market.pdb
+C:\Users\D13\Desktop\Super market\Super market\bin\Debug\IrisSkin2.dll
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super market.csprojResolveAssemblyReference.cache
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Entry.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Insertname.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Pwd.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Select.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Login.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.MainForm.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Properties.Resources.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Insert.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.SelectJD.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Deletaname.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Sell.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.Update.resources
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super market.csproj.GenerateResource.Cache
+C:\Users\D13\Desktop\Super market\Super market\obj\Debug\Super_market.UserInfo.resources
